@@ -79,6 +79,11 @@ Install reflectify using one of the following methods:
 ```sh
 ❯ pip install -r requirements.txt
 ```
+or
+
+```sh
+❯ python install.py
+```
 
 
 
@@ -88,7 +93,7 @@ Run reflectify using the following command:
 **Using `pip`** &nbsp; [<img align="center" src="https://img.shields.io/badge/Pip-3776AB.svg?style={badge_style}&logo=pypi&logoColor=white" />](https://pypi.org/project/pip/)
 
 ```sh
-❯ python -m src.bOT
+❯ python -m src.Bot
 ```
 
 ---
