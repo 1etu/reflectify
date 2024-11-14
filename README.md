@@ -1,4 +1,4 @@
-<p align="center"><h1 align="center">REFLECTIFY</h1></p>
+<p align="center"><h1 align="center">🔮 reflectify</h1></p>
 <p align="center">
 	<em>Mirrors your GitHub followers effortlessly.</em>
 </p>
